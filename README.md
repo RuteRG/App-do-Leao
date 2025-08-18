@@ -1,3 +1,6 @@
+> ⚠️ Este projeto é apenas para fins de visualização como modelo.  
+> O uso, modificação ou redistribuição **não são permitidos** sem autorização.
+
 # 🦁 App do Leão
 
 Este projeto é uma planilha inteligente desenvolvida com Excel e recursos de IA para ajudar na organização financeira, cálculo de deduções e geração de relatórios para o Imposto de Renda.
@@ -41,3 +44,4 @@ Está protegido sob a licença **Creative Commons BY-NC-ND 4.0** — o que signi
 - ✅ Pode ser visualizado com atribuição
 
 🔗 [Leia os termos da licença aqui](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
