@@ -34,14 +34,3 @@ GitHub: @RuteRG
 
 Email: contatoruteribeiro@gmail.com
 
-## 📄 Licença
-
-Este projeto é disponibilizado apenas como **modelo de referência**.  
-Está protegido sob a licença **Creative Commons BY-NC-ND 4.0** — o que significa que:
-
-- ❌ Não pode ser usado comercialmente  
-- ❌ Não pode ser modificado ou redistribuído  
-- ✅ Pode ser visualizado com atribuição
-
-🔗 [Leia os termos da licença aqui](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
